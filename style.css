@@ -6,10 +6,12 @@ h1{
  background-color: #B2A5FF;
  color: #493D9E;
  font-size: 45px;
+ padding: 15px;
 }
 .description{
 background-color: #DAD2FF;
 font-size: 25px;
+padding: 15px;
 }
 .highlight {
     color: #FF5733;
